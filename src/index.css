@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding-top: 60;
+    font-family: sans-serif;
+}
+
+.card {
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.marco {
+    padding-bottom: 25px;
+}
+
+.pad {
+    padding-bottom: 10px;
+}
+.row {
+    padding-top: 30px; 
+    padding-left: 30px;
+}
